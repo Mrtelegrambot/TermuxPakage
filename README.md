@@ -34,7 +34,7 @@ git clone https://github.com/Mrtelegrambot/Termux-Style
 cd Termux-Style
 
 # To install it, run -
-./install.sh
+./install
 
 # And follow the steps, it'll be installed on your system.
 ```
