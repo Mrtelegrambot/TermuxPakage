@@ -92,11 +92,6 @@ $ termux-style
 
 ### Previews
 
-|Colorschemes|Fonts|
-|--|--|
-|![img](images/colors.mp4)|![img](images/fonts.mp4)|
-
-
 |Install|Uninstall|
 |--|--|
 |![img](images/install.gif)|![img]|
