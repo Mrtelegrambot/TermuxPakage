@@ -28,7 +28,7 @@ Follow the steps below -
 cd $HOME
 
 # Clone this repository (use `gh repo clone Mrtelegrambot/Termux-Style` if you want to use the GitHub CLI)- 
-git clone https://github.com/Mrtelegrambot/Termux-Style
+git clone https://github.com/Mrtelegrambot/TermuxStyle
 
 # Change to termux-style dir -
 cd Termux-Style
