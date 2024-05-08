@@ -1,10 +1,4 @@
-<!-- Links -->
-[bmac]: https://www.buymeacoffee.com/adi1090x
-[ko-fi]: https://ko-fi.com/adi1090x
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U3VK2SSVQWAPN
-[patreon]: https://www.patreon.com/adi1090x
-
-**`LAST Updated`** : `August 2023`
+**`LAST Updated`** : `May 2024'
 
 > Unmaintained : Due to Termux not working properly on new Android versions and also Termux not getting maintained properly.
 
@@ -13,16 +7,15 @@
 # Termux Style
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-No-red?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/adi1090x/termux-style?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/adi1090x/termux-style?color=violet&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Mrtelegrambot/Termux-Style?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Mrtelegrambot/Termux-Style?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Mrtelegrambot/Termux-Style?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Mrtelegrambot/Termux-Style?color=violet&style=for-the-badge">
 </p>
 
 Simple script to change color-schemes and fonts for [Termux](https://termux.com) terminal emulator.
 
-![gif](images/main.gif) <br />
+![gif](images/main.mp4) <br />
 
 > **`termux-style` provides color-schemes and powerline-ready fonts to customize the appearance of the Termux terminal.**
 
@@ -35,13 +28,13 @@ Follow the steps below -
 cd $HOME
 
 # Clone this repository (use `gh repo clone adi1090x/termux-style` if you want to use the GitHub CLI)- 
-git clone https://github.com/adi1090x/termux-style
+git clone https://github.com/Mrtelegrambot/Termux-Style
 
 # Change to termux-style dir -
-cd termux-style
+cd Termux-Style
 
 # To install it, run -
-./install
+./install.sh
 
 # And follow the steps, it'll be installed on your system.
 ```
@@ -58,7 +51,7 @@ $ termux-style
     │░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄░▄▄▄░▀▀█░░█░░░█░░█░░░█▀▀░░│
     │░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░░░▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░│
     └──────────────────────────────────────────────────┘
-    [*] By- Aditya Shakya // adi1090x
+    [*] By- Sathish Kumar// Mrtelegrambot 
 
     [C] Colors (89)
     [F] Fonts (20)
@@ -87,29 +80,26 @@ $ termux-style
 
     [Select Option]: 2
 
-    [Enter Color-scheme URL]: https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties
+    [Enter Color-scheme URL]: https://raw.githubusercontent.com/Mrtelegrambot/Termux-Style/master/colors/gruvbox-dark.properties
 
     [*] Reloading Settings...
     [*] Applied Successfully.
 ```
 
 + To import *local file*, enter the full path (e.g. - `/data/data/com.termux/files/home/spiderman.properties`) of the color-scheme.
-+ To import *web file*, enter the file url (e.g. - `https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties`) of the color-scheme.
++ To import *web file*, enter the file url (e.g. - `https://raw.githubusercontent.com/Mrtelegrambot/Termux-Style/master/colors/gruvbox-dark.properties`) of the color-scheme.
 <br />
 
 ### Previews
 
 |Colorschemes|Fonts|
 |--|--|
-|![img](images/colors.gif)|![img](images/fonts.gif)|
+|![img](images/colors.mp4)|![img](images/fonts.mp4)|
 
-|Import - URL|Import - Local|
-|--|--|
-|![img](images/url.gif)|![img](images/local.gif)|
 
 |Install|Uninstall|
 |--|--|
-|![img](images/install.gif)|![img](images/uninstall.png)|
+|![img](images/install.gif)|![img]|
 
 ### FYI
 - An `uninstall` script is also added, in case you want to remove this program.
